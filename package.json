@@ -1,0 +1,22 @@
+{
+  "name": "jasa-desain-grafis",
+  "version": "1.0.0",
+  "description": "Jasa Desain Grafis - Web Marketplace",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server public",
+    "build": "echo 'Build complete'",
+    "serve": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "keywords": [
+    "desain",
+    "grafis",
+    "marketplace"
+  ],
+  "author": "Eriec0",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^12.0.0"
+  }
+}
